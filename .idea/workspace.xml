@@ -5,144 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e93c41-3288-4717-bb3a-d2d55a45abab" name="Changes" comment="Payment-Box">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Box-Payment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kids.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Men.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-kids5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-men5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment-women5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Women.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/kids.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/men.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/payment-men.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/women.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmk-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmm-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6,1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6,2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6,3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6,4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Pmwm-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NIKE--HTML-CSS-" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -200,8 +63,17 @@
       <workItem from="1646899173472" duration="6000" />
       <workItem from="1646899192817" duration="1018000" />
       <workItem from="1646900231152" duration="5000" />
-      <workItem from="1646900265176" duration="605000" />
+      <workItem from="1646900265176" duration="888000" />
+      <workItem from="1646904570932" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="Payment-Box">
+      <created>1646900937854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900937854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
